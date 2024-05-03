@@ -1,2 +1,2 @@
-# MANUAL-QUADRADO
+# MANUAL-CUBO
 como montar o cubo
